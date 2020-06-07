@@ -148,14 +148,12 @@ body {
 }
 
 .rodapePrincipal-contatoForm-emailInput {
-	border-top-left-radius: 5px;
-	border-bottom-left-radius: 5px;
+	border-radius: 5px 0 0 5px;
 	padding: 10px;
 }
 
 .rodapePrincipal-contatoForm-submit {
-	border-top-right-radius: 5px;
-	border-bottom-right-radius: 5px;
+	border-radius: 0 5px 5px 0;
 	background-color: #4DBA7A;
 	color: #FFF;
 	cursor: pointer;
